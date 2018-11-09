@@ -2,10 +2,11 @@ title: Sheila Jeffery
 email: siegel.sheila@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Amateur poet and professional software developer. Get in touch via LinkedIn
-  or follow me on Instagram. This site was built with
-  <a href="https://jekyllrb.com">Jekyll</a> and
-  <a href="https://daringfireball.net/projects/markdown/">Markdown</a>. All
-  content © 2016-2018 Sheila Jeffery.
+  or follow me on Instagram. This site was built with <a
+  href="https://jekyllrb.com">Jekyll</a> and
+  <a href="https://daringfireball.net/projects/markdown/">Markdown</a>. Adapted
+  from the <a href="https://github.com/fareez-ahamed/millikyl">millikyl</a>
+  theme. All content © 2016-2018 Sheila Jeffery.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "sheilajeffery.net" # the base hostname & protocol for your site
 linkedin_username: SheilaJ
