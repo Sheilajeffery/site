@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Și ce dacă"
-subtitle: A poem about my childhood hometown of Bra&#537;ov
 date:   2018-10-24 19:35:44 +0000
 categories: poems
 ---

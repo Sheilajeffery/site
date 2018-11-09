@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "I asked what it was"
-subtitle:  The darkness has not overcome it
 date:   2018-05-15 16:52:01 +0000
 categories: poems
 ---
