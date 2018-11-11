@@ -5,6 +5,8 @@ date:   2017-07-17 18:28:12 +0000
 categories: poems
 ---
 
-![Ce s-a schimbat viața noastră](/assets/ce-s-a-schimbat-viata-noastra.jpg)
+<p style="text-align:center;">
+<img src="/assets/ce-s-a-schimbat-viata-noastra.jpg" alt="Ce s-a schimbat viața noastră" width="600" class="center"/>
+</p>
 
 ###### © 2017 Sheila Jeffery

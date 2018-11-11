@@ -5,6 +5,8 @@ date:   2018-10-24 19:35:44 +0000
 categories: poems
 ---
 
-![Și ce dacă](/assets/si-ce-daca.jpg)
+<p style="text-align:center;">
+<img src="/assets/si-ce-daca.jpg" alt="Și ce dacă" width="600" class="center"/>
+</p>
 
 ###### © 2018 Sheila Jeffery

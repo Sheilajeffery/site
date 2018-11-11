@@ -5,6 +5,8 @@ date:   2018-08-30 19:31:49 +0000
 categories: poems
 ---
 
-![Ce se întâmplă cu oamenii](/assets/ce-se-intampla-cu-oamenii.jpg)
+<p style="text-align:center;">
+<img src="/assets/ce-se-intampla-cu-oamenii.jpg" alt="Ce se întâmplă cu oamenii" width="600" class="center"/>
+</p>
 
 ###### © 2018 Sheila Jeffery
