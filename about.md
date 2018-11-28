@@ -11,4 +11,4 @@ I'm a 24 year-old Software Developer from Bra&#537;ov, Romania. I'm currently at
 
 When I'm not elbow-deep in Java I like to work out, read, drink coffee, write poetry, listen to indie/acoustic music and go for countryside walks.
 
-I am wife to Alex, follower of Jesus, INFP, littlemrsjeffery, Siegel.
+I am wife to Alex, a follower of Jesus, INFP, littlemrsjeffery, a Siegel.
